@@ -52,3 +52,7 @@ make clean
 - `3.数据库考试第三章.md`
 - `4.数据库考试第4章和第5章.md`
 
+## 说明
+
+- 笔记中的图片统一放在 `attachments/`，链接已从 Obsidian 的 `![[...]]` 语法转换为标准 Markdown，可直接在 GitHub 上阅读。
+- `operating-system/宏内核和微内核.md` 中的两张内核架构示意图来自 CSDN 博客（原图带 `CSDN@三境界` 水印），版权归原作者所有，此处仅作学习记录引用。
